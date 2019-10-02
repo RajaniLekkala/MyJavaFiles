@@ -1,8 +1,8 @@
 public class Person {
     private String firstName;
     private String lastName;
-    private  int age;
-    public boolean hungry;
+    private int age;
+    private boolean hungry;
 
     // Getter
     public String getFirstName() {
@@ -30,6 +30,16 @@ public class Person {
     //Setter
     public void setAge(int newAge){
         this.age= newAge;
+    }
+
+    // Getter
+    public boolean getHungry() {
+        return hungry;
+    }
+
+    // Setter
+    public void setHungry(boolean hungry1) {
+        this.hungry = hungry1;
     }
 
 }

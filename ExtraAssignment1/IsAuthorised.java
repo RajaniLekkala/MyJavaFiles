@@ -1,4 +1,6 @@
- import java.util.ArrayList;
+package ExtraAssignment1;
+
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class IsAuthorised {

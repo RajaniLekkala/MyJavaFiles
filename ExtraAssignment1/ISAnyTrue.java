@@ -1,3 +1,5 @@
+package ExtraAssignment1;
+
 public class ISAnyTrue {
     public static void main(String[] args){
     boolean res= isAnyTrue("false","false","false","false");

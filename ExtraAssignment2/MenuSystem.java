@@ -1,4 +1,6 @@
-import java.util.*;
+package ExtraAssignment2;
+
+import java.util.Scanner;
 
 public class MenuSystem {
     public static void main(String[] args){

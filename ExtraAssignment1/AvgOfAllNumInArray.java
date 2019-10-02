@@ -1,3 +1,5 @@
+package ExtraAssignment1;
+
 import java.util.Arrays;
 public class AvgOfAllNumInArray {
     public static void main(String[] args){

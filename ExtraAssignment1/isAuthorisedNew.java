@@ -1,5 +1,7 @@
-import java.util.ArrayList;
-import java.util.*;
+package ExtraAssignment1;
+
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class isAuthorisedNew {
     public static void main(String[] args){
